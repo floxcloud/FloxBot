@@ -12,7 +12,7 @@ Esta é a versão inicial do FloxBot. Futuras atualizações incluirão mais fun
 
 1. **Clone o Repositório:**
 
-   `git clone https://github.com/usuario/repo.git`
+   `git clone https://github.com/floxcloud/FloxBot.git`
 
 2. **Instale as Dependências:**
 
