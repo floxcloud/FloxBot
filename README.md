@@ -19,25 +19,25 @@
 Esta é a versão inicial do FloxBot. Futuras atualizações incluirão mais funcionalidades e melhorias com base no feedback dos usuários.
 
 ## Instalando e Usando
-```bash
 1. **Clone o Repositório:**
 
-   `git clone https://github.com/usuario/repo.git`
+   ```bash
+   git clone https://github.com/usuario/repo.git```
 
-2. **Instale as Dependências:**
+3. **Instale as Dependências:**
 
    Navegue até o diretório do bot e instale as dependências necessárias:
 
-   `cd repo`
+   ```bash
+   cd repo
+   npm install --no-bin-links```
 
-   `npm install --no-bin-links`
-
-3. **Inicie o Bot:**
+5. **Inicie o Bot:**
 
    Execute o script para iniciar o bot:
 
-   `sh start.sh`
-```
+   ```bash
+   sh start.sh```
 
 ## Contato
 
