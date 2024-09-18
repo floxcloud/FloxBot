@@ -1,16 +1,6 @@
 # FloxBot
 
-![Logo da Hospedagem](link-para-logo-da-hospedagem) <!-- Substitua pelo link para a imagem do logo da hospedagem -->
-
-## Funcionalidades
-
-| Recurso                   | Descrição                                                     |
-|---------------------------|---------------------------------------------------------------|
-| **Interação Automática**  | Respostas automatizadas e interações personalizadas.         |
-| **Gerenciamento de Tarefas** | Organize e execute tarefas diretamente pelo bot.            |
-| **Suporte Multilíngue**   | Suporte para vários idiomas, facilitando a comunicação.       |
-| **Integração com APIs**   | Conecte-se facilmente a APIs externas para expandir funcionalidades. |
-| **Atualizações Regulares** | Mantenha-se atualizado com novas funcionalidades e melhorias. |
+![FloxCloud](link-para-logo-da-hospedagem) <!-- Substitua pelo link para a imagem do logo da hospedagem -->
 
 ## Versão
 
@@ -41,8 +31,5 @@ Esta é a versão inicial do FloxBot. Futuras atualizações incluirão mais fun
 
 ## Contato
 
-Para dúvidas e sugestões, entre em contato com [Seu Nome](link-para-seu-perfil).
-
+Para dúvidas e sugestões, entre em contato com o [Hiudy](https://wa.me/553399285117)
 ---
-
-**FloxBot** é um projeto criado com dedicação para melhorar a interação e automação no WhatsApp. Esperamos que você aproveite e encontre valor nas funcionalidades oferecidas!
