@@ -1,6 +1,6 @@
 # FloxBot
 
-![FloxCloud](link-para-logo-da-hospedagem) <!-- Substitua pelo link para a imagem do logo da hospedagem -->
+![FloxCloud](https://i.ibb.co/cyTw3hR/Cloud-illustrated-Hosting-Logo-20240813-133256-0000.png) <!-- Substitua pelo link para a imagem do logo da hospedagem -->
 
 ## Versão
 
